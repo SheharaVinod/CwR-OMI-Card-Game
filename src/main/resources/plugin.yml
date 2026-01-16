@@ -6,3 +6,10 @@ prefix: OMI
 authors: [ Mr_Unknown ]
 description: OMI the tramps popular card game in srilanka.
 website: mc.cwresports.lk
+
+commands:
+  omi-admin:
+    permission: cwr-core.omi-card-game.admin
+    permission-message: You don't have permission to execute this command.
+    usage: /omi-admin help
+    description: Admin command of this plugin this command do setup omi tables
