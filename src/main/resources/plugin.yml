@@ -1,0 +1,8 @@
+name: CwR-OMI-Card-Game
+version: '1.0.0'
+main: lk.cwresports.OMICardGame.OMICardGame
+api-version: '1.18'
+prefix: OMI
+authors: [ Mr_Unknown ]
+description: OMI the tramps popular card game in srilanka.
+website: mc.cwresports.lk
