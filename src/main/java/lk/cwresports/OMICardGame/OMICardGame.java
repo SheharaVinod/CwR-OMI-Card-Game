@@ -17,4 +17,8 @@ public final class OMICardGame extends JavaPlugin {
     public void onDisable() {
         // Plugin shutdown logic
     }
+
+    public static OMICardGame getInstance() {
+        return instance;
+    }
 }
